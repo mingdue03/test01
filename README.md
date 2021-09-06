@@ -15,3 +15,11 @@ git status  현재 상태 확인
 
 global user.email "mingdue@gmail.com"
 git config --global user.name"mingdue03"
+
+커밋지정 (하나의 버전)
+git add 파일 명 / git add.(추가하지 않은 모든 파일) 
+git commit -m"메세지"    
+git push -u origin master       파일 올리기
+
+git remote set-url origin https://<발급받은토큰>@github.com/<아이디>/<리파지토리>
+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
