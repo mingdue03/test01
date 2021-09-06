@@ -22,4 +22,3 @@ git commit -m"메세지"
 git push -u origin master       파일 올리기
 
 git remote set-url origin https://<발급받은토큰>@github.com/<아이디>/<리파지토리>
-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# test01
