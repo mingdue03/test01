@@ -13,8 +13,8 @@ git inint   저장소로 만든다
 ls -al      숨긴파일 까지 다 보임
 git status  현재 상태 확인
 
-global user.email "mingdue@gmail.com"
-git config --global user.name"mingdue03"
+global user.email "메일"
+git config --global user.name"아이디"
 
 커밋지정 (하나의 버전)
 git add 파일 명 / git add.(추가하지 않은 모든 파일) 
